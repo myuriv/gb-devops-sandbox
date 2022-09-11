@@ -1,2 +1,2 @@
 # gb-devops-sandbox
-GeekBrains
+Репозиторий для практики по курсу DevOps GeekBrains
